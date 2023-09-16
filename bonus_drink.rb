@@ -14,5 +14,3 @@ class BonusDrink
   end
   
 end
-amount = gets.chomp.to_i
-puts BonusDrink.total_count_for(amount)
